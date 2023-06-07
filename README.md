@@ -14,14 +14,4 @@
 - Navigate to https://localhost:3000
 - Check more about [Tailwind CSS](https://tailwindcss.com/)
 
-### Pages
 
-- Licensed under **MIT**
-
-### Demo
-
-Demo: <a href="https://thriving-kataifi-7c5d45.netlify.app/">Demo with Netlify</a>
-
-### Donation
-
-Buy Me some Cofee and Snack with Donate me at [Saweria](https://saweria.co/raincodemyid)
